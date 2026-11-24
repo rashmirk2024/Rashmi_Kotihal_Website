@@ -1,0 +1,1 @@
+$(function(){$('#year').text(new Date().getFullYear());$('.menu').on('click',function(){$('nav').toggleClass('open')});});
